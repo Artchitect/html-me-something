@@ -1,0 +1,52 @@
+h1 {
+        border: 7px solid black;
+        border-radius: 15px;
+        color: crimson;
+        font-size: 50px;
+        font-style: italic;
+        font-family: Impact, Charcoal, sans-serif;
+        margin-left: 0%;
+        padding: 25px;
+        text-align: center;
+        width: 77%;
+        
+}
+
+.nav-links li {
+        font-size: xx-large;
+        font-family: Arial, Helvetica, sans-serif;
+        padding-top: 5px;
+        padding-bottom: 5px;
+}
+
+.first-title {
+        color: indianred;
+        font-size: xx-large;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 2%;
+}
+
+.second-title {
+        color: silver;
+        font-size: xx-large;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 2%;
+}
+
+.third-title {
+        color: indianred;
+        font-size: xx-large;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 2%;
+}
+
+#fourth-title {
+        color: silver;
+        font-size: xx-large;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 2%;
+}
+
+p {
+        text-indent: 2%;
+}
